@@ -323,8 +323,11 @@ section {
 
 /* Skills SECTION */
 
-#Skills {
+#Skill {
   position: relative;
+}
+#coding{
+  position:relative
 }
 
 .Skills-sub-title {
@@ -334,7 +337,7 @@ section {
   margin-bottom: 2rem;
 }
 
-.Skills-details-container {
+.Skills-details-container ,.codng-details-container{
   display: flex;
   justify-content: center;
   flex-direction: column;
